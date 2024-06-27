@@ -1,1 +1,0 @@
-Thanks to Ebola man from youtube https://www.youtube.com/@ebolaman_ I have put 40,000 13 digit passwords in here you need there ip use grabify if they have a vpn this will not work. you will also need there windows name. And once you have done that type passlist 1 2 3 4 or 5 then .txt and it will run. really if you like this subscribe to ebola man this is his code.
